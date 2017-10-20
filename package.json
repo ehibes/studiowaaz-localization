@@ -1,0 +1,26 @@
+{
+  "name": "studiowaaz-localization",
+  "version": "0.0.1",
+  "description": "Localization module for apostrophecms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehibes/studiowaaz-localization.git"
+  },
+  "keywords": [
+    "apostrophecms",
+    "localization"
+  ],
+  "author": "Ibes Mongabure",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ehibes/studiowaaz-localization/issues"
+  },
+  "homepage": "https://github.com/ehibes/studiowaaz-localization#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
