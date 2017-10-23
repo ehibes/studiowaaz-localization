@@ -1,6 +1,6 @@
 {
   "name": "studiowaaz-localization",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Localization module for apostrophecms",
   "main": "index.js",
   "scripts": {
