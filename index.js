@@ -5,7 +5,7 @@ module.exports = {
     directory: 'lib/modules'
   },
 
-  alias: 'waaz',
+  alias: 'waazloc',
 
   construct: function(self, options) {
     self.defaultLocale = options.default || "en";
