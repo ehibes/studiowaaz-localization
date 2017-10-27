@@ -1,7 +1,7 @@
 module.exports = {
 
   moogBundle: {
-    modules: ['extend-page-cursors','studiowaaz-docs', 'studiowaaz-pieces', 'studiowaaz-pieces-pages'],
+    modules: ['studiowaaz-localization-pages','studiowaaz-localization-docs', 'studiowaaz-localization-pieces', 'studiowaaz-localization-pieces-pages'],
     directory: 'lib/modules'
   },
 
@@ -36,5 +36,4 @@ module.exports = {
       }
     });
   }
-
 };
