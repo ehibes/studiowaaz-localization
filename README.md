@@ -34,7 +34,7 @@ Just switch locale in url and add content to your pages or pieces.
 ### Making link to localized url
 Each page or piece had a ```_localeurl``` property. Use it in order to ```_url```.
 ### Get current locale from template
-```{{ apos.waaz.getLocale() }}```  
+```{{ apos.waazloc.getLocale() }}```  
 
 ## TODO  
 - [ ] Never Types
